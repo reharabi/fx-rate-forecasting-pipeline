@@ -125,7 +125,7 @@ All lag and rolling features are **shifted by 1 day** to prevent lookahead leaka
 
 ## How to Run
 
-1. Upload `Foreign_Exchange_Rates.csv` to Google Drive → `MyDrive/`
+1. Upload [`Foreign_Exchange_Rates.csv`](https://github.com/reharabi/fx-rate-forecasting-pipeline/commit/0ff535fcae0ecf5972929a360963afea229a54cd) to Google Drive → `MyDrive/`
 2. Open `fx_forecasting.ipynb` in Google Colab
 3. Run **Step 1** to install LightGBM (`!pip install lightgbm`)
 4. Mount Google Drive when prompted in **Step 2**
